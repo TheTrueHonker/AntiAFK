@@ -19,8 +19,8 @@ if __name__ == '__main__':
     print("Press 'ESC' to exit...")
     print('You can go now in your game...')
     print('Starting Anti-AFK-Protocol in 10 seconds...')
-
     time.sleep(10)
+    print('Starting Anti-AFK-Protocol now...')
     while True:
         keyboard.press('a')
         time.sleep(random.randint(1, 2))
