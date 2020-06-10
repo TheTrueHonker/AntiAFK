@@ -17,7 +17,7 @@ if __name__ == '__main__':
     print('Grabbing keyboard controller now...')
     keyboard = Controller()
     print("Press 'ESC' to exit...")
-    print('You can go now in your game...')
+    print('The program is now working, you can go in game and go afk...')
     print('Starting Anti-AFK-Protocol in 10 seconds...')
     time.sleep(10)
     print('Starting Anti-AFK-Protocol now...')
