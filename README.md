@@ -20,7 +20,13 @@ If you want to use the script rather then the executable, you must download the 
 
 ```bash
 $ pip install pynput
+$ pip install argparse
 $ python AAFK.py
+```
+
+You can view the available options by running this command in your console:
+```
+$ python AAFK.py -h
 ```
 
 ## Contributing
